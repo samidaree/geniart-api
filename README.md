@@ -9,4 +9,4 @@ AI-powered image generation tool using DALL·E made with React, Node.js, Express
 
 (The image is no longer generated, I have spent all my credits of the API of OpenAI) 
 
-https://geniart-frontend.onrender.com/
+geniart.samidare.co/
